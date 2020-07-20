@@ -1,4 +1,4 @@
-# introduction-to-python
+# Introduction to Python
 
 > Course repository of Introduction to Python.
 >
