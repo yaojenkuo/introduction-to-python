@@ -1,7 +1,9 @@
 # introduction-to-python
 
 > Course repository of Introduction to Python.
+>
 > <https://www.sli.do> #60825 
+>
 > <tonykuoyj@gmail.com>
 
 ## 點選圖示啟動環境
