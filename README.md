@@ -25,4 +25,4 @@
 
 ## 課程錄影播放清單
 
-- [331 期暑期密集班，台大資訊系統訓練班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuXo4TZVNQ8bAJzbxpJ3AqPG)
+- [331 期暑期密集班，新生教學館 204 教室，台大資訊系統訓練班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuXo4TZVNQ8bAJzbxpJ3AqPG)
