@@ -17,10 +17,10 @@ class TestFunctions(unittest.TestCase):
         self.assertAlmostEqual(std(1, 3, 5, 7, 9), 3.1622776601683795)
         self.assertAlmostEqual(std(3, 4, 5, 6, 7), 1.5811388300841898)
         self.assertAlmostEqual(std(3), 'Please input at least 2 numbers.')
-    def test_fibonacci(self):
-        self.assertEqual(fibonacci(5), [0, 1, 1, 2, 3])
-        self.assertEqual(fibonacci(5, 1, 2), [1, 2, 3, 5, 8])
-        self.assertEqual(fibonacci(10, 1, 2), [1, 2, 3, 5, 8, 13, 21, 34, 55, 89])
+    def test_fibonacci_list(self):
+        self.assertEqual(fibonacci_list(5), [0, 1, 1, 2, 3])
+        self.assertEqual(fibonacci_list(5, 1, 2), [1, 2, 3, 5, 8])
+        self.assertEqual(fibonacci_list(10, 1, 2), [1, 2, 3, 5, 8, 13, 21, 34, 55, 89])
 
 suite = unittest.TestLoader().loadTestsFromTestCase(TestFunctions)
 runner = unittest.TextTestRunner(verbosity=2)
