@@ -12,8 +12,8 @@
 
 ## 工作目錄
 
-- `/demo_scripts`: 示例程式碼
 - `/notebooks`: 課程教材
+- `/notebooks/demo_scripts`: 示例程式碼
 - `/suggested_answers`: 隨堂練習參考解答
 - `/test_cases`: 測試資料與測試程式碼
 
