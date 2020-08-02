@@ -21,7 +21,7 @@
 
 - [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
 - [Python資料科學學習手冊](https://www.books.com.tw/products/0010774364)
-- [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=194899-1fb421&utm_medium=affiliate&utm_source=tonykuo)
+- [DataCamp](https://www.datacamp.com/search?q=python&tap_a=5644-dce66f&tap_s=194899-1fb421&utm_medium=affiliate&utm_source=tonykuo)
 
 ## 課程錄影播放清單
 
